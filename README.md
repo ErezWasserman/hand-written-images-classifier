@@ -6,3 +6,5 @@ Models are then evaluated for their performance and compared.
 View the latest version including results [HERE](https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/Evaluate%20classification%20methods%20for%20hand-written%20digits%20identifiers.ipynb).
 
 enjoy ;)
+
+![P-R_curve](imgs/P-R_curve.png)   ![images](imgs/rand_imgs.png) 
