@@ -9,7 +9,7 @@ enjoy ;)
 
 ![](imgs/rand_imgs.png)
 
-<img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/rand_imgs.png" height="24" width="48">
+<img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/rand_imgs.png" height="150" width="300">
 
 <img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/P-R_curve.png" width="300" />
 
