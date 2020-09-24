@@ -7,4 +7,8 @@ View the latest version including results [HERE](https://github.com/ErezWasserma
 
 enjoy ;)
 
-![P-R_curve](imgs/P-R_curve.png)   ![images](imgs/rand_imgs.png) 
+![images](imgs/rand_imgs.png)
+![images](imgs/rand_imgs.png | width=100) 
+![images](imgs/rand_imgs.png =250x250) 
+
+![P-R_curve](imgs/P-R_curve.png)   
