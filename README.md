@@ -8,4 +8,4 @@ View the latest version including results [HERE](https://github.com/ErezWasserma
 enjoy ;)
 
 
-<img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/rand_imgs.png" width="150"> | <img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/P-R_curve.png" width="400">
+<img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/rand_imgs.png" width="200"> | <img src="https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/imgs/P-R_curve.png" width="350">
