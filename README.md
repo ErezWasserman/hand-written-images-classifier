@@ -4,6 +4,7 @@ The models were trained to predict numbers in images containing hand-written num
 Models are then evaluated for their performance and compared. 
 
 View the latest version including results [HERE](https://github.com/ErezWasserman/hand-written-images-classifier/blob/master/Evaluate%20classification%20methods%20for%20hand-written%20digits%20identifiers.ipynb).
+
 If the notebook fails to open, please use [this link](https://nbviewer.jupyter.org/github/ErezWasserman/hand-written-images-classifier/blob/master/Evaluate%20classification%20methods%20for%20hand-written%20digits%20identifiers.ipynb?flush_cache=true).
 
 enjoy ;)
